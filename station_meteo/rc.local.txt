@@ -1,0 +1,6 @@
+file sudo nano /etc/rc.local
+
+
+sudo python3 /home/pi/script.py &
+sudo python3 /home/pi/listener.py &
+sudo python3 /home/pi/led/run.py &
