@@ -12,16 +12,6 @@
 - (frontend) The IP address of the API is statically set to the following IP: 192.168.0.171:9090. This can be changed in the services.dart file on line 12. This implies of course to rebuild the project -> impossible to change in the APK.
 - (backend) The configurations of the connection between the API and the database can be modified in the application.properties file.
 
-## Ressources
-
-    mail : serir50583@grokleft.com
-    pass : *********
-
-| Description | Value |
-| --- | --- |
-| Figma Project | https://www.figma.com/file/eRFqY7vXXpJ1eRvOZSGOUO/Mobile-and-IOT?node-id=1%3A10 |
-| Overleaf Project | https://www.overleaf.com/5481972181zmvpbgckztpn |
-
 ## Requirements
 
 > Mobile GUI
